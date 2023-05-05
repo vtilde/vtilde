@@ -3,7 +3,7 @@
 
 <div align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tilde-nya&theme=omni" /></div>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tilde-nya&show_icons=true&theme=omni&hide_border=true" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tilde-nya&show_icons=true&theme=omni&hide_border=true&card_width=690" /></div>
 <!--- https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tilde-nya&theme=omni&exclude=" />
@@ -15,10 +15,10 @@
 
 <table>
 <tr>
-<th align="center" width="600px">
+<th align="center" width="50%">
 home
 </th>
-<th align="center" width="600px">
+<th align="center" width="50%">
 work
 </th>
 </tr>
