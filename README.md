@@ -15,10 +15,10 @@
 
 <table>
 <tr>
-<th align="center" width="50%">
+<th align="center" width="600px">
 home
 </th>
-<th align="center" width="50%">
+<th align="center" width="600px">
 work
 </th>
 </tr>
