@@ -1,14 +1,14 @@
-<!-- ![](https://komarev.com/ghpvc/?username=tilde-nya&color=ff69b4&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=tilde-nya&color=ff69b4&style=flat-square) -->
 
 
 <div align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vtilde&theme=omni" /></div>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vtilde&show_icons=true&theme=omni&hide_border=true&card_width=690" /></div>
-https://github.com/anuraghazra/github-readme-stats
+<!-- <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vtilde&show_icons=true&theme=omni&hide_border=true&card_width=690" /></div> -->
+<!--- https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vtilde&theme=omni&exclude=" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vtilde&theme=omni&utcOffset=1" /></div>
-https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 
 <br>
 <br>
@@ -24,6 +24,7 @@ work
 </tr>
 <tr>
 <td>
+<!-- Text here -->
   <br>
 <div align="center">
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
